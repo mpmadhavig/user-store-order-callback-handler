@@ -54,7 +54,7 @@ public class CustomCallbackUserstoreServiceComponent {
 
     public static final String REG_PATH = "userstore-metadata.xml";
     public static final String REG_PROPERTY_SP = "My Account";
-    public static final String REG_PROPERTY_USER_DOMAINS = "secondary";
+    public static final String REG_PROPERTY_USER_DOMAINS = "SECONDARY";
 
 
     protected void activate(ComponentContext context) {
